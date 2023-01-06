@@ -7,3 +7,5 @@ https://auth0.com/blog/whats-new-in-dotnet-7-for-authentication-and-authorizatio
 https://henriquesd.medium.com/creating-an-application-from-scratch-using-net-core-and-angular-part-1-d1c66733c57d
 
 https://www.toptal.com/developers/gitignore
+
+git push https://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@github.com/marchicman/BookStore.git
