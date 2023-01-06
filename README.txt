@@ -8,4 +8,3 @@ https://henriquesd.medium.com/creating-an-application-from-scratch-using-net-cor
 
 https://www.toptal.com/developers/gitignore
 
-git push https://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@github.com/marchicman/BookStore.git
